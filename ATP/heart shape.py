@@ -5,8 +5,8 @@ screen = turtle.Screen()
 screen.bgcolor("black")
 
 pen = turtle.Turtle()
-pen.speed(3)
-pen.pensize(3)
+pen.speed(.9)
+pen.pensize(5)
 pen.color("white", "red")
 
 pen.begin_fill()
